@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cloud Computing and DevOps
 - 💞️ I’m looking to collaborate on Enterprise Architectures, Cloud Computing and DevOps
 - 📫 How to reach me - divine.awah@dvconsultinc.com
-- 😄 Pronouns: Divine
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: soccer addict
 
 <!---
