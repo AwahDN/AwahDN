@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AwahDN
 - 👀 I’m interested in Cloud Computing and DevOps
 - 🌱 I’m currently learning Cloud Computing and DevOps
-- 💞️ I’m looking to collaborate on ENterprise Architectures, Cloud Computing and DevOps
+- 💞️ I’m looking to collaborate on Enterprise Architectures, Cloud Computing and DevOps
 - 📫 How to reach me - divine.awah@dvconsultinc.com
 - 😄 Pronouns: Divine
 - ⚡ Fun fact: soccer addict
